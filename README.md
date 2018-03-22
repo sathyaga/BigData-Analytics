@@ -1,4 +1,4 @@
-# BigData-Analytics - This reference implementation is desinged to provide an overview of an end-to-end Enterprise BI platform. The underlying architecture has Azure Blob Storage, Azure SQL DW, Azure Analysis Service and PowerBI for various levels of data management and visualization.
+# This reference implementation is desinged to provide an overview of an end-to-end Enterprise BI platform. The underlying architecture has Azure Blob Storage, Azure SQL DW, Azure Analysis Service and PowerBI for various levels of data management and visualization.
 
 I used the NY Taxi Cab public dataset with over 100+ million records of data and tools like T-SQL and SSMS 2017. This solution would be helpful to those looking for basic guidance to onboarding their on-prem solution to a cloud (Azure) environment.
 
