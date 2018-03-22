@@ -5,7 +5,8 @@ I used the NY Taxi Cab public dataset with over 100+ million records of data and
 
 The Logical/technical steps I used to design this solution for a demo purpose is below:
 
-# 1.	Create a data warehouse in the Azure portal: Login to Azure portal and create a blank SQL data warehouse (PaaS)
+# 1.	Create a data warehouse in the Azure portal: 
+        --Login to Azure portal and create a blank SQL data warehouse, provision the PaaS
 # 2.	Set up a server-level firewall rule in the Azure portal: 
         --Note: SQL Data Warehouse communicates over port 1433 
 # 3.	Connect to the data warehouse with SSMS
