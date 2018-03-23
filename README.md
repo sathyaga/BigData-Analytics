@@ -1,4 +1,4 @@
-# This reference implementation is desinged to provide an overview of an end-to-end Enterprise BI platform. The underlying architecture has Azure Blob Storage, Azure SQL DW, Azure Analysis Service and PowerBI to support various levels of data management layers and visualization aspects.
+# This reference implementation provides an overview of an end-to-end Enterprise BI platform with data movement from on-prem to cloud environment. The underlying architecture has Azure Blob Storage, Azure SQL DW, Azure Analysis Service to support various data management layers and PowerBI for visuakizations.
 
 I used the NY Taxi Cab public dataset with over 100+ million records of data and tools like T-SQL and SSMS 2017. This solution would be helpful to those looking for basic guidance to onboarding their on-prem solution to a cloud (Azure) environment.
 
